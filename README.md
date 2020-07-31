@@ -1,4 +1,4 @@
-![](video.gif)
+![](https://github.com/inercia/inercia/blob/master/video.gif?raw=true)
 
 <!--
 **inercia/inercia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
